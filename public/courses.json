@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "cover": "https://res.cloudinary.com/mozammal01/image/upload/v1710521495/Programming-courses/Rectangle_2-4_ovzvvt.png",
+    "title": "Python Programming Masterclass",
+    "details": "Learn Python from scratch and become a Python expert. Covers basic to advanced concepts.",
+    "price": 9900,
+    "reading_time": 2
+  },
+  {
+    "id": "2",
+    "cover": "https://res.cloudinary.com/mozammal01/image/upload/v1710521495/Programming-courses/Rectangle_2-3_xpwnwe.png",
+    "title": "JavaScript for Beginners",
+    "details": "Start your journey into web development with JavaScript. Learn fundamental concepts and build projects.",
+    "price": 7900,
+    "reading_time": 5
+  },
+  {
+    "id": "3",
+    "cover": "https://res.cloudinary.com/mozammal01/image/upload/v1710521494/Programming-courses/Rectangle_2-1_wk0epw.png",
+    "title": "Java Programming: From Zero to Hero",
+    "details": "Comprehensive course covering Java programming language, including OOP concepts and data structures.",
+    "price": 12900,
+    "reading_time": 2
+  },
+  {
+    "id": "4",
+    "cover": "https://res.cloudinary.com/mozammal01/image/upload/v1710521494/Programming-courses/Rectangle_2-2_mihpax.png",
+    "title": "C++ Crash Course",
+    "details": "Quick dive into C++ programming. Suitable for beginners and those familiar with other languages.",
+    "price": 8900,
+    "reading_time": 1
+  },
+  {
+    "id": "5",
+    "cover": "https://res.cloudinary.com/mozammal01/image/upload/v1710521489/Programming-courses/Rectangle_2_p8c9nw.png",
+    "title": "Web Development Bootcamp",
+    "details": "Learn HTML, CSS, and JavaScript to build responsive websites. Includes projects and practical exercises.",
+    "price": 14900,
+    "reading_time": 3
+  },
+  {
+    "id": "6",
+    "cover": "https://res.cloudinary.com/mozammal01/image/upload/v1710521489/Programming-courses/Rectangle_3_ybj5ht.png",
+    "title": "Data Science Fundamentals",
+    "details": "Introduction to data science, covering Python libraries such as NumPy, Pandas, and Matplotlib.",
+    "price": 10900,
+    "reading_time": 2
+  },
+  {
+    "id": "7",
+    "cover": "https://res.cloudinary.com/mozammal01/image/upload/v1710521488/Programming-courses/Rectangle_2-5_pyvnih.png",
+    "title": "Mobile App Development with Flutter",
+    "details": "Build cross-platform mobile apps using Flutter and Dart programming language.",
+    "price": 15900,
+    "reading_time": 5
+  },
+  {
+    "id": "8",
+    "cover": "https://res.cloudinary.com/mozammal01/image/upload/v1710521488/Programming-courses/Rectangle_3-1_dmmz5e.png",
+    "title": "Machine Learning Basics",
+    "details": "Introduction to machine learning algorithms and techniques using Python and scikit-learn.",
+    "price": 11900,
+    "reading_time": 8
+  },
+  {
+    "id": "9",
+    "cover": "https://res.cloudinary.com/mozammal01/image/upload/v1710521488/Programming-courses/Rectangle_2-6_gly5gf.png",
+    "title": "Introduction to Blockchain Development",
+    "details": "Learn about blockchain technology and develop basic blockchain applications.",
+    "price": 9900,
+    "reading_time": 10
+  }
+]
